@@ -1,0 +1,16 @@
+C:\Users\aspre\OneDrive\Desktop\College Work\C #\Exercise 1 c#\Conversion Ex1\bin\Debug\net5.0\Conversion Ex1.exe
+C:\Users\aspre\OneDrive\Desktop\College Work\C #\Exercise 1 c#\Conversion Ex1\bin\Debug\net5.0\Conversion Ex1.deps.json
+C:\Users\aspre\OneDrive\Desktop\College Work\C #\Exercise 1 c#\Conversion Ex1\bin\Debug\net5.0\Conversion Ex1.runtimeconfig.json
+C:\Users\aspre\OneDrive\Desktop\College Work\C #\Exercise 1 c#\Conversion Ex1\bin\Debug\net5.0\Conversion Ex1.runtimeconfig.dev.json
+C:\Users\aspre\OneDrive\Desktop\College Work\C #\Exercise 1 c#\Conversion Ex1\bin\Debug\net5.0\Conversion Ex1.dll
+C:\Users\aspre\OneDrive\Desktop\College Work\C #\Exercise 1 c#\Conversion Ex1\bin\Debug\net5.0\ref\Conversion Ex1.dll
+C:\Users\aspre\OneDrive\Desktop\College Work\C #\Exercise 1 c#\Conversion Ex1\bin\Debug\net5.0\Conversion Ex1.pdb
+C:\Users\aspre\OneDrive\Desktop\College Work\C #\Exercise 1 c#\Conversion Ex1\obj\Debug\net5.0\Conversion Ex1.csproj.AssemblyReference.cache
+C:\Users\aspre\OneDrive\Desktop\College Work\C #\Exercise 1 c#\Conversion Ex1\obj\Debug\net5.0\Conversion Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aspre\OneDrive\Desktop\College Work\C #\Exercise 1 c#\Conversion Ex1\obj\Debug\net5.0\Conversion Ex1.AssemblyInfoInputs.cache
+C:\Users\aspre\OneDrive\Desktop\College Work\C #\Exercise 1 c#\Conversion Ex1\obj\Debug\net5.0\Conversion Ex1.AssemblyInfo.cs
+C:\Users\aspre\OneDrive\Desktop\College Work\C #\Exercise 1 c#\Conversion Ex1\obj\Debug\net5.0\Conversion Ex1.csproj.CoreCompileInputs.cache
+C:\Users\aspre\OneDrive\Desktop\College Work\C #\Exercise 1 c#\Conversion Ex1\obj\Debug\net5.0\Conversion Ex1.dll
+C:\Users\aspre\OneDrive\Desktop\College Work\C #\Exercise 1 c#\Conversion Ex1\obj\Debug\net5.0\ref\Conversion Ex1.dll
+C:\Users\aspre\OneDrive\Desktop\College Work\C #\Exercise 1 c#\Conversion Ex1\obj\Debug\net5.0\Conversion Ex1.pdb
+C:\Users\aspre\OneDrive\Desktop\College Work\C #\Exercise 1 c#\Conversion Ex1\obj\Debug\net5.0\Conversion Ex1.genruntimeconfig.cache
